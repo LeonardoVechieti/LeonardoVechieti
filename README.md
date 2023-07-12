@@ -1,8 +1,8 @@
 <h1 align="left">Olá, me chamo Leonardo Vechieti!</h1>
 <h3 align="left"> Seja bem vindo o meu perfil do GitHub!</h3>
 <h3 aling="left">- Sou desenvolvedor de software desktop, mobile e web.</h3>
-<h3 aling="left">- Ex bolsista na Compass.uol de Vue.js e AEM, concluído em agosto de 2022.</h3>
-<h3 aling="left">- Futuro cientista da computação pela Universidade Regional Integrada.</h3>
+<h3 aling="left">- Atualmete trabalho tecnologias Adobe (AEM) e desenvolvimento de softwares ERP em Java.</h3>
+<h3 aling="left">- Cientista da computação pela Universidade Regional Integrada.</h3>
 
 - 📫 E-mail de contato: **leonardovechieti@outlook.com**
 
