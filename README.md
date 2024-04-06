@@ -1,7 +1,7 @@
 <h1 align="left">Olá, me chamo Leonardo Vechieti!</h1>
 <h3 align="left"> Seja bem vindo o meu perfil do GitHub!</h3>
 <h3 aling="left">- Sou desenvolvedor de software desktop, mobile e web.</h3>
-<h3 aling="left">- Atualmete trabalho tecnologias Adobe (AEM) e desenvolvimento de softwares ERP em Java.</h3>
+<h3 aling="left">- Atualmete trabalho com Angular, Adonis.js e softwares ERP em Java.</h3>
 <h3 aling="left">- Cientista da computação pela Universidade Regional Integrada.</h3>
 
 - 📫 E-mail de contato: **leonardovechieti@outlook.com**
