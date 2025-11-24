@@ -17,7 +17,7 @@
 
 🎓 **Cientista da Computação** pela URI (Universidade Regional Integrada)  
 💼 **Desenvolvedor Sênior** no Grupo Argenta  
-🌎 **+8 anos** de experiência em desenvolvimento e suporte de software  
+🌎 **+10 anos** de experiência em desenvolvimento e suporte de software  
 ⚡ Trabalho remoto com metodologias ágeis **(Scrum e Kanban)**
 
 Sou apaixonado por tecnologia e desenvolvimento de soluções que realmente gerem **impacto nos negócios**. Atuo desde 2013 em diferentes segmentos da TI, com forte vivência em **sistemas ERP**, **automações** e **desenvolvimento full stack**.
@@ -66,65 +66,6 @@ Atualmente, construo soluções **B2B**, **APIs de automação** e **sistemas de
 
 ### **Design & Prototyping**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 💼 Experiência Profissional
-
-### 🏢 **Desenvolvedor Sênior** - Grupo Argenta
-- Desenvolvimento de soluções **B2B** e **APIs de automação**
-- Sistemas de **backoffice** com Node.js, Angular e Flutter
-- Aplicativo **SIMPLIFICA** e portais administrativos
-- ERPs customizados e soluções mobile/web
-
-### 🎯 **Áreas de Especialização**
-- ✅ Sistemas ERP sob medida
-- ✅ Automação de processos (RPA)
-- ✅ Arquitetura de APIs RESTful
-- ✅ Desenvolvimento Mobile (Flutter, React Native)
-- ✅ SQL Avançado e otimização de queries
-- ✅ Metodologias Ágeis (Scrum/Kanban)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeonardoVechieti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoVechieti&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoVechieti&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Certificações & Formação
-
-🎯 **Certificações Recentes:**
-- ✅ Angular
-- ✅ Node.js
-- ✅ React
-- ✅ Java Spring
-- ✅ Vue.js
-
-🎓 **Formação:**
-- Ciência da Computação - URI (Universidade Regional Integrada)
-
----
-
-## 🌟 Projetos em Destaque
-
-### 📱 **Aplicativo SIMPLIFICA**
-Sistema mobile completo para gestão e automação de processos empresariais.
-
-### 🏢 **Portais Administrativos**
-Desenvolvimento de sistemas web para gestão de backoffice com dashboards e relatórios.
-
-### 🔧 **ERPs Customizados**
-Sistemas ERP sob medida desenvolvidos com tecnologias modernas e escaláveis.
 
 ---
 
